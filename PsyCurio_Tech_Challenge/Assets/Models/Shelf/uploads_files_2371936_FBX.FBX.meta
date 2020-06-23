@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 0faab4aad79430044a0cee25141a4533
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: book_remuhin_01
+    100002: book_remuhin_02
+    100004: book_remuhin_027
+    100006: book_remuhin_028
+    100008: book_remuhin_029
+    100010: book_remuhin_03
+    100012: book_remuhin_030
+    100014: book_remuhin_031
+    100016: book_remuhin_032
+    100018: book_remuhin_033
+    100020: book_remuhin_035
+    100022: book_remuhin_04
+    100024: book_remuhin_05
+    100026: book_remuhin_06
+    100028: book_remuhin_07
+    100030: book_remuhin_08
+    100032: book_remuhin_09
+    100034: book_remuhin_10
+    100036: book_remuhin_11
+    100038: book_remuhin_13
+    100040: book_remuhin_14
+    100042: book_remuhin_15
+    100044: book_remuhin_16
+    100046: book_remuhin_20
+    100048: book_remuhin_21
+    100050: book_remuhin_22
+    100052: book_remuhin_23
+    100054: book_remuhin_24
+    100056: book_remuhin_25
+    100058: book_remuhin_26
+    100060: CERAMICHE DAL PRA_Mare - MR111RN
+    100062: coral_02
+    100064: coral_fan_red
+    100066: marble_base
+    100068: MICHAEL ARAM WHEAT PHOTO FRAME_004
+    100070: MICHAEL ARAM WHEAT PHOTO FRAME_005
+    100072: 'MR111SR '
+    100074: MR112SR
+    100076: 'MR120BN '
+    100078: MR121BN
+    100080: MR122BN
+    100082: 'MR126SR '
+    100084: Object006
+    100086: Old_map
+    100088: Red Coral Ginger Jar, Pom Vase
+    100090: SEA STAR VASE
+    100092: sea_shell
+    100094: shelf_01
+    100096: shelf_02
+    100098: shelf_03
+    100100: shell_base
+    100102: Soapstone Sculpture, Scallop001
+    100104: //RootNode
+    100106: vase_01
+    400000: book_remuhin_01
+    400002: book_remuhin_02
+    400004: book_remuhin_027
+    400006: book_remuhin_028
+    400008: book_remuhin_029
+    400010: book_remuhin_03
+    400012: book_remuhin_030
+    400014: book_remuhin_031
+    400016: book_remuhin_032
+    400018: book_remuhin_033
+    400020: book_remuhin_035
+    400022: book_remuhin_04
+    400024: book_remuhin_05
+    400026: book_remuhin_06
+    400028: book_remuhin_07
+    400030: book_remuhin_08
+    400032: book_remuhin_09
+    400034: book_remuhin_10
+    400036: book_remuhin_11
+    400038: book_remuhin_13
+    400040: book_remuhin_14
+    400042: book_remuhin_15
+    400044: book_remuhin_16
+    400046: book_remuhin_20
+    400048: book_remuhin_21
+    400050: book_remuhin_22
+    400052: book_remuhin_23
+    400054: book_remuhin_24
+    400056: book_remuhin_25
+    400058: book_remuhin_26
+    400060: CERAMICHE DAL PRA_Mare - MR111RN
+    400062: coral_02
+    400064: coral_fan_red
+    400066: marble_base
+    400068: MICHAEL ARAM WHEAT PHOTO FRAME_004
+    400070: MICHAEL ARAM WHEAT PHOTO FRAME_005
+    400072: 'MR111SR '
+    400074: MR112SR
+    400076: 'MR120BN '
+    400078: MR121BN
+    400080: MR122BN
+    400082: 'MR126SR '
+    400084: Object006
+    400086: Old_map
+    400088: Red Coral Ginger Jar, Pom Vase
+    400090: SEA STAR VASE
+    400092: sea_shell
+    400094: shelf_01
+    400096: shelf_02
+    400098: shelf_03
+    400100: shell_base
+    400102: Soapstone Sculpture, Scallop001
+    400104: //RootNode
+    400106: vase_01
+    2100000: golden_frames
+    2100002: plastic
+    2100004: MA_logo_horiz
+    2100006: Cover_Sherlok_bw
+    2100008: Pages
+    2100010: book_R_7_cover
+    2100012: Cover_R9
+    2100014: ceramic_white
+    2100016: wood_gold
+    2100018: shelvings_wood
+    2100020: book_R_5_cover
+    2100022: Cover_Italian_Villas_bw
+    2100024: book_R_1_cover
+    2100026: leather_49
+    2100028: leather_55
+    2100030: leather_red
+    2100032: leather_R2
+    2100034: Red Coral Ginger Jar, Pom Vase
+    2100036: ceramic_black
+    2100038: gold_base
+    2100040: metall_decor_gold
+    2100042: base_black
+    2100044: coral_white
+    2100046: coral_red
+    2100048: gold
+    2100050: 'Material #449'
+    2100052: old_map
+    2300000: book_remuhin_01
+    2300002: book_remuhin_02
+    2300004: book_remuhin_027
+    2300006: book_remuhin_028
+    2300008: book_remuhin_029
+    2300010: book_remuhin_03
+    2300012: book_remuhin_030
+    2300014: book_remuhin_031
+    2300016: book_remuhin_032
+    2300018: book_remuhin_033
+    2300020: book_remuhin_035
+    2300022: book_remuhin_04
+    2300024: book_remuhin_05
+    2300026: book_remuhin_06
+    2300028: book_remuhin_07
+    2300030: book_remuhin_08
+    2300032: book_remuhin_09
+    2300034: book_remuhin_10
+    2300036: book_remuhin_11
+    2300038: book_remuhin_13
+    2300040: book_remuhin_14
+    2300042: book_remuhin_15
+    2300044: book_remuhin_16
+    2300046: book_remuhin_20
+    2300048: book_remuhin_21
+    2300050: book_remuhin_22
+    2300052: book_remuhin_23
+    2300054: book_remuhin_24
+    2300056: book_remuhin_25
+    2300058: book_remuhin_26
+    2300060: CERAMICHE DAL PRA_Mare - MR111RN
+    2300062: coral_02
+    2300064: coral_fan_red
+    2300066: marble_base
+    2300068: MICHAEL ARAM WHEAT PHOTO FRAME_004
+    2300070: MICHAEL ARAM WHEAT PHOTO FRAME_005
+    2300072: 'MR111SR '
+    2300074: MR112SR
+    2300076: 'MR120BN '
+    2300078: MR121BN
+    2300080: MR122BN
+    2300082: 'MR126SR '
+    2300084: Object006
+    2300086: Old_map
+    2300088: Red Coral Ginger Jar, Pom Vase
+    2300090: SEA STAR VASE
+    2300092: sea_shell
+    2300094: shelf_01
+    2300096: shelf_02
+    2300098: shelf_03
+    2300100: shell_base
+    2300102: Soapstone Sculpture, Scallop001
+    2300104: vase_01
+    3300000: book_remuhin_01
+    3300002: book_remuhin_02
+    3300004: book_remuhin_027
+    3300006: book_remuhin_028
+    3300008: book_remuhin_029
+    3300010: book_remuhin_03
+    3300012: book_remuhin_030
+    3300014: book_remuhin_031
+    3300016: book_remuhin_032
+    3300018: book_remuhin_033
+    3300020: book_remuhin_035
+    3300022: book_remuhin_04
+    3300024: book_remuhin_05
+    3300026: book_remuhin_06
+    3300028: book_remuhin_07
+    3300030: book_remuhin_08
+    3300032: book_remuhin_09
+    3300034: book_remuhin_10
+    3300036: book_remuhin_11
+    3300038: book_remuhin_13
+    3300040: book_remuhin_14
+    3300042: book_remuhin_15
+    3300044: book_remuhin_16
+    3300046: book_remuhin_20
+    3300048: book_remuhin_21
+    3300050: book_remuhin_22
+    3300052: book_remuhin_23
+    3300054: book_remuhin_24
+    3300056: book_remuhin_25
+    3300058: book_remuhin_26
+    3300060: CERAMICHE DAL PRA_Mare - MR111RN
+    3300062: coral_02
+    3300064: coral_fan_red
+    3300066: marble_base
+    3300068: MICHAEL ARAM WHEAT PHOTO FRAME_004
+    3300070: MICHAEL ARAM WHEAT PHOTO FRAME_005
+    3300072: 'MR111SR '
+    3300074: MR112SR
+    3300076: 'MR120BN '
+    3300078: MR121BN
+    3300080: MR122BN
+    3300082: 'MR126SR '
+    3300084: Object006
+    3300086: Old_map
+    3300088: Red Coral Ginger Jar, Pom Vase
+    3300090: SEA STAR VASE
+    3300092: sea_shell
+    3300094: shelf_01
+    3300096: shelf_02
+    3300098: shelf_03
+    3300100: shell_base
+    3300102: Soapstone Sculpture, Scallop001
+    3300104: vase_01
+    4300000: MICHAEL ARAM WHEAT PHOTO FRAME_004
+    4300002: book_remuhin_04
+    4300004: book_remuhin_03
+    4300006: book_remuhin_05
+    4300008: book_remuhin_01
+    4300010: book_remuhin_13
+    4300012: book_remuhin_14
+    4300014: book_remuhin_15
+    4300016: SEA STAR VASE
+    4300018: shelf_02
+    4300020: shelf_01
+    4300022: book_remuhin_23
+    4300024: book_remuhin_25
+    4300026: book_remuhin_24
+    4300028: book_remuhin_02
+    4300030: book_remuhin_26
+    4300032: book_remuhin_11
+    4300034: book_remuhin_16
+    4300036: book_remuhin_21
+    4300038: book_remuhin_20
+    4300040: book_remuhin_09
+    4300042: book_remuhin_08
+    4300044: book_remuhin_10
+    4300046: book_remuhin_06
+    4300048: book_remuhin_07
+    4300050: book_remuhin_22
+    4300052: shelf_03
+    4300054: Red Coral Ginger Jar, Pom Vase
+    4300056: coral_fan_red
+    4300058: Soapstone Sculpture, Scallop001
+    4300060: MR122BN
+    4300062: MR121BN
+    4300064: CERAMICHE DAL PRA_Mare - MR111RN
+    4300066: 'MR120BN '
+    4300068: 'MR126SR '
+    4300070: 'MR111SR '
+    4300072: MR112SR
+    4300074: MICHAEL ARAM WHEAT PHOTO FRAME_005
+    4300076: book_remuhin_027
+    4300078: book_remuhin_028
+    4300080: book_remuhin_029
+    4300082: book_remuhin_030
+    4300084: book_remuhin_031
+    4300086: book_remuhin_032
+    4300088: book_remuhin_033
+    4300090: book_remuhin_035
+    4300092: vase_01
+    4300094: shell_base
+    4300096: sea_shell
+    4300098: Object006
+    4300100: Old_map
+    4300102: marble_base
+    4300104: coral_02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

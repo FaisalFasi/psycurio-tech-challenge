@@ -1,0 +1,38 @@
+
+                                                        ANSWERS OF YOUR QUESTION:
+
+Question_01: Difference b/w object and data structure:
+Answer_01: An object is basically an instance of a class. A class can model various things from the real world. 
+It's an abstraction of something. While a data structure is a structure which organizes certain data in a certain way. 
+You can implement structures in ways different than by using classes.
+
+Question_02: What does “separation of concerns” mean and what are advantages/disadvantages?
+Answer_02: Separation of concerns is a software architecture design pattern/principle for separating an application into distinct sections, 
+so each section addresses a separate concern. For example the use of methods, objects, components, 
+and services to define core behavior within an application,projects, solutions, 
+and folder hierarchies for source organization, application layers and tiers for processing organization.
+
+Pros and Cons of Separation of Concerns:
+
+Pros:
+Code reuse - Separation of concern provides code reusability
+Adaptable design - A good design is closed for changes and open for additions. 
+Test driven approach - Isolated implementation allows to test each component separately. 
+Cons:
+Higher complexity
+Not suitable for simple and small solutions
+
+Question_03: Explain, in a few words, what roles the inspector, project and hierarchy panels in the Unity editor have.
+Which is responsible for referencing the content that will be included in the build process?
+Answer_03: 
+The inspector panel allows users to modify numeric values (such as position, rotation and scale),
+drag and drop references of scene objects (like Prefabs, Materials and Game Objects), and others. 
+Also it can show a custom-made UI, created by the user, by using Editor scripts.
+The project panel contains files from the file system of the assets folder in the project’s root folder. 
+It shows all the available scripts, textures, materials and shaders available for use in the project.
+The hierarchy panel shows the current scene structure, with its GameObjects and its children. 
+It also helps users organize them by name and order relative to the GameObject’s siblings.
+Order dependent features, such as UI, make use of this categorization.
+The panel responsible for referencing content in the build process is the hierarchy panel.
+The panel contains references to the objects that exist, or will exist, when the application is executed. 
+When building the project, Unity searches for them in the project panel, and adds them to the bundle.
